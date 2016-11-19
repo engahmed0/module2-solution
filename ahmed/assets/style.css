@@ -102,7 +102,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 }
 
 
-@media (max-width: 767px) {
+ (max-width: 767px) {
 	body{font:300 12px/12px Roboto,Arial,Helvetica;}
 
 	.banner .caption,.carousel-caption,.carousel-control,.carousel-indicators{display: none;}
